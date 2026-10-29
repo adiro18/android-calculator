@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="hint_first">First number</string>
+    <string name="hint_second">Second number</string>
+    <string name="add">+</string>
+    <string name="subtract">−</string>
+    <string name="multiply">×</string>
+    <string name="divide">÷</string>
+    <string name="result_empty">Result: </string>
+    <string name="result_format">Result: %1$s</string>
+    <string name="error_empty">Please enter both numbers</string>
+    <string name="error_invalid">Please enter valid numbers</string>
+    <string name="error_divide_zero">Cannot divide by zero</string>
+</resources>
